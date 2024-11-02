@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edosiifu.github.io/ITX/sitemap_index.txt
+Sitemap: https://edosiifu.github.io/Mog/sitemap_index.txt
+Sitemap: https://edosiifu.github.io/UYV/sitemap_index.txt
+Sitemap: https://edosiifu.github.io/bia/sitemap_index.txt
